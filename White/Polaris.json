@@ -13,3 +13,18 @@
     }
   ]
 }
+{
+  "response": [
+    {
+        "Master": "jiangzi",
+        "Country": "China",
+        "OEM": "Xiaomi",
+        "Device": "Mix2S",
+        "Code": "Polaris",
+        "Type": "OFFICIAL",
+        "Github": "https://github.com/coolapkjiangz",
+        "Telegram": "",
+        "Email": "2650855981@qq.com"
+    }
+  ]
+}
